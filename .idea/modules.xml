@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CompanyManagement.iml" filepath="$PROJECT_DIR$/CompanyManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CompanyManagement-grailsPlugins.iml" filepath="$PROJECT_DIR$/CompanyManagement-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
