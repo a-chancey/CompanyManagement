@@ -1,6 +1,9 @@
 package companymanagement
 
 class Employee {
+    static belongsTo = [company:Company]
+    static hasOne = [manager:Manager]
+
     String name
     String phone
     BigDecimal wagePerHour
